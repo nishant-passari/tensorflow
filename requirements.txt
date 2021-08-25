@@ -1,5 +1,5 @@
 python==3.6
-tensorflow==1.5
+tensorflow==2.5.1
 scikit-image
 gym
 tflearn
